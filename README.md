@@ -13,18 +13,24 @@
   <img src="https://img.shields.io/github/followers/anujsharma-codex?style=for-the-badge&color=ff00ff&labelColor=0d0017&label=FOLLOWERS"/>
 </p>
 
----
+<br>
 
-## Who I Am
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20WHO%20I%20AM&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 Climate Data Science student building toward physical risk intelligence for the energy transition.  
 Not following tutorials — building real tools, phase by phase, with documented progress.
 
 Currently in **Phase 2**: NumPy (basics complete) → Pandas → Xarray.
 
----
+<br>
 
-## What I'm Building Right Now
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20WHAT%20I%27M%20BUILDING&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 | Phase | Status | Focus |
 |---|---|---|
@@ -34,9 +40,12 @@ Currently in **Phase 2**: NumPy (basics complete) → Pandas → Xarray.
 | Phase 4 — ML for Climate Risk | ⬜ Planned | LSTM · Transformers |
 | Phase 5 — Production Systems | ⬜ Planned | FastAPI · Docker · Kubernetes |
 
----
+<br>
 
-## Featured Project
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20FEATURED%20PROJECT&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 ### [`solar-financial-calculator`](https://github.com/anujsharma-codex)
 
@@ -58,11 +67,13 @@ Financial Layer  →  ROI, payback period, LCOE, net cost after subsidy
 - Three class layers: physical ↔ energy ↔ financial — each responsible for one concern
 - Separate handling for residential (MNRE subsidy) and commercial (accelerated depreciation, no subsidy)
 
----
+<br>
 
-## Technical Skills
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20TECHNICAL%20SKILLS&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
-<!-- SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark&perline=8" />
 </p>
@@ -91,9 +102,12 @@ Financial Layer  →  ROI, payback period, LCOE, net cost after subsidy
 ![FastAPI](https://img.shields.io/badge/FastAPI-planned-e0aaff?style=flat-square&logo=fastapi&logoColor=white&labelColor=9d00ff)
 ![Docker](https://img.shields.io/badge/Docker-planned-e0aaff?style=flat-square&logo=docker&logoColor=white&labelColor=9d00ff)
 
----
+<br>
 
-## Domain
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20DOMAIN&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 ```
 Climate Physical Risk Intelligence
@@ -105,9 +119,12 @@ Climate Physical Risk Intelligence
 Goal: Climate Data Scientist specializing in physical risk.  
 Eventually: climate tech company building decision tools for the energy sector.
 
----
+<br>
 
-## GitHub Stats
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20GITHUB%20STATS&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anujsharma-codex&show_icons=true&theme=dark&hide_border=true&bg_color=0d0017&title_color=ff00ff&icon_color=9d00ff&text_color=f0d6ff&ring_color=7b00ff&include_all_commits=true&count_private=true" height="165"/>
@@ -115,33 +132,44 @@ Eventually: climate tech company building decision tools for the energy sector.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma-codex&layout=compact&theme=dark&hide_border=true&bg_color=0d0017&title_color=ff00ff&text_color=f0d6ff" height="165"/>
 </p>
 
-<!-- STREAK -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anujsharma-codex&theme=dark&hide_border=true&background=0d0017&ring=9d00ff&fire=ff00ff&currStreakLabel=da8fff&sideLabels=c77dff&dates=9d7abf&stroke=2d0060" height="165"/>
 </p>
 
-<!-- TROPHIES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anujsharma-codex&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujsharma-codex&bg_color=0d0017&color=ff00ff&line=9d00ff&point=f0d6ff&area=true&area_color=2d0060&hide_border=true" width="100%"/>
 </p>
 
----
+<br>
 
-## Contribution Snake 🐍
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20CONTRIBUTION%20SNAKE&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anujsharma-codex/anujsharma-codex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
+<br>
 
-## Progress Log
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0060,100:7b00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0017,100:2d0060&height=50&text=◈%20%20PROGRESS%20LOG&fontColor=ff00ff&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b00ff,100:2d0060&height=2&section=header" width="100%"/>
 
+Documenting the build publicly on Instagram — tools built, concepts learned, decisions made.
+
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-ff00ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2d0060)](https://instagram.com/yourhandle) -->
+
+<br>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b00ff,100:0d0017&height=100&section=footer" width="100%"/>
 Documenting the build publicly on Instagram — tools built, concepts learned, decisions made.
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-ff00ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2d0060)](https://instagram.com/yourhandle) -->
