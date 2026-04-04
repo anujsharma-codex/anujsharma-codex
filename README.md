@@ -1,11 +1,16 @@
-## Hi there 👋
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1b4332,70:40916c,100:52b788&height=200&section=header&text=Anuj%20Sharma&fontColor=d8f3dc&fontSize=52&fontAlignY=55&desc=Climate%20Data%20Science%20%E2%80%94%20in%20progress.&descFontColor=95d5b2&descAlignY=75&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b4332,100:40916c&height=130&section=header&text=Anuj%20Sharma&fontColor=d8f3dc&fontSize=36&fontAlignY=55&desc=Climate%20Data%20Science%20%E2%80%94%20in%20progress.&descFontColor=95d5b2&descAlignY=75&descSize=14" width="100%"/>
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://github.com/anujsharma-codex">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&width=620&lines=Building+domain-specific+tools+for+climate+risk.;Python+%E2%86%92+NumPy+%E2%86%92+Pandas+%E2%86%92+Xarray+%E2%86%92+Climate+Systems.;Focus%3A+Energy+transition+%C2%B7+Physical+risk+analytics." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=52B788&center=true&vCenter=true&multiline=false&width=680&lines=Building+domain-specific+tools+for+climate+risk.;Python+%E2%86%92+NumPy+%E2%86%92+Pandas+%E2%86%92+Xarray+%E2%86%92+Climate+Systems.;Focus%3A+Energy+transition+%C2%B7+Physical+risk+analytics.;Phase+2+active+%E2%80%94+NumPy+done.+Pandas+loading...;Clean+code.+Real+logic.+No+shortcuts." alt="Typing SVG" />
+</p>
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujsharma-codex&style=for-the-badge&color=1b4332&labelColor=0d1117&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/anujsharma-codex?style=for-the-badge&color=40916c&labelColor=0d1117&label=FOLLOWERS"/>
 </p>
 
 ---
@@ -57,6 +62,21 @@ Financial Layer  →  ROI, payback period, LCOE, net cost after subsidy
 
 ## Technical Skills
 
+<!-- ANIMATED SKILL ICONS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <sub>Active Stack</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,fastapi,kubernetes&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <sub>Roadmap — next 6 months</sub>
+</p>
+
 **Active**
 
 ![Python](https://img.shields.io/badge/Python-intermediate-40916c?style=flat-square&logo=python&logoColor=white&labelColor=1b4332)
@@ -93,15 +113,37 @@ Eventually: climate tech company building decision tools for the energy sector.
 
 ## GitHub Stats
 
+<!-- ANIMATED STATS CARDS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujsharma-codex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=d8f3dc&ring_color=2d6a4f" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anujsharma-codex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=d8f3dc&ring_color=2d6a4f&include_all_commits=true&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma-codex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=d8f3dc" height="165"/>
 </p>
 
+<!-- STREAK ANIMATION -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anujsharma-codex&theme=dark&hide_border=true&background=0d1117&ring=40916c&fire=52b788&currStreakLabel=95d5b2&sideLabels=74c69d&dates=74c69d&stroke=1b4332" height="165"/>
 </p>
+
+<!-- TROPHY ANIMATION -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anujsharma-codex&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujsharma-codex&bg_color=0d1117&color=52b788&line=40916c&point=d8f3dc&area=true&area_color=1b4332&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujsharma-codex/anujsharma-codex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> ⚙️ To enable the snake: go to **Actions** tab in your profile repo → enable workflows → the snake SVG auto-generates on a schedule.
 
 ---
 
@@ -109,9 +151,10 @@ Eventually: climate tech company building decision tools for the energy sector.
 
 Documenting the build publicly on Instagram — tools built, concepts learned, decisions made.
 
-<!-- Optional: add your Instagram link below -->
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-40916c?style=flat-square&logo=instagram&logoColor=white&labelColor=1b4332)](https://instagram.com/yourhandle) -->
+<!-- Add your Instagram handle below when ready -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-40916c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1b4332)](https://instagram.com/yourhandle) -->
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,50:1b4332,100:0d1117&height=80&section=footer" width="100%"/>
+<!-- FOOTER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,50:1b4332,100:0d1117&height=100&section=footer" width="100%"/>
