@@ -3,7 +3,7 @@
 
 <br>
 
-<!-- TYPING LINE -->
+<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1400&color=FF00FF&center=true&vCenter=true&width=680&lines=Building+domain-specific+tools+for+climate+risk.;Python+%E2%86%92+NumPy+%E2%86%92+Pandas+%E2%86%92+Xarray+%E2%86%92+Climate+Systems.;Phase+2+active+%E2%80%94+NumPy+done.+Pandas+loading...;Clean+code.+Real+logic.+No+shortcuts." alt="Typing SVG" />
 </p>
@@ -131,14 +131,10 @@ Documenting the build on Instagram — what I built, what I learned, what broke.
 <br>
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b00ff,100:0d0017&height=100&section=footer" width="100%"/>
-
+<!-- CUSTOM DANGEROUS SNAKE BANNER -->
 <p align="center">
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-ff00ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2d0060)](https://instagram.com/yourhandle) -->
+  <img src="https://raw.githubusercontent.com/anujsharma-codex/anujsharma-codex/main/snake-banner.svg" alt="viper" />
 </p>
-
-<br>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b00ff,100:0d0017&height=100&section=footer" width="100%"/>
