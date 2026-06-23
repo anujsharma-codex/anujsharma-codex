@@ -17,23 +17,40 @@
 
 ---
 
-### `01 /` Who I Am
+## Hi — I’m Anuj 👋
 
-I'm building toward **Climate Physical Risk Intelligence** — the intersection of climate science, geospatial data, and energy systems.
+I build **Climate Physical Risk Intelligence** — the intersection of climate science, geospatial data, and energy systems.
 
-Not a tutorial follower. I pick a real problem, build a tool that solves it, and document the process. That's the loop.
+Not a tutorial follower. I pick a real problem, build a tool that solves it, and document the process. That’s the loop.
 
-Currently on **Phase 2 of 5** — scientific Python stack (NumPy → Pandas → Xarray).
-
----
+**Currently on Phase 2/5**: scientific Python stack (**NumPy → Pandas → Xarray**).
 
 <br>
 
-### `02 /` What I Just Built
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark" height="40"/>
+  <img src="https://skillicons.dev/icons?i=xarray&theme=dark" height="40"/>
+</p>
+
+---
+
+## Featured projects
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
 </p>
+
+- **solar-financial-calculator** — CLI tool for solar energy + financial analysis (feasibility → generation → ROI/LCOE).
+  - Tech: Python · OOP · CLI
+  - Repo: `anujsharma-codex/anujsharma-codex` (this profile)
+
+<br>
+
+<!-- Keep your original detailed writeups, but move them down so the reader sees value first -->
+
+---
+
+### `01 /` What I Just Built
 
 **`solar-financial-calculator`** — a CLI tool for solar energy and financial analysis.
 
@@ -54,26 +71,26 @@ Built to be extended — not a script, an architecture.
 
 <br>
 
-### `03 /` Current Stack
+### `02 /` Current Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <sub>Python &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; OOP &nbsp;·&nbsp; Git / GitHub</sub>
+  <sub>Python · NumPy · OOP · Git / GitHub</sub>
 </p>
 
 <br>
 
-### `04 /` What's Coming
+### `03 /` What’s coming next
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,docker,fastapi,kubernetes&theme=dark" />
 </p>
 
 <p align="center">
-  <sub>Pandas &nbsp;·&nbsp; Xarray &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; PostGIS &nbsp;·&nbsp; LSTM &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes</sub>
+  <sub>Pandas · Xarray · Matplotlib · PostgreSQL · PostGIS · LSTM · FastAPI · Docker · Kubernetes</sub>
 </p>
 
 | Phase | Focus | Status |
@@ -83,6 +100,16 @@ Built to be extended — not a script, an architecture.
 | ⬜ 3 | Climate + Geospatial — PostGIS, real datasets | Next |
 | ⬜ 4 | ML for climate risk — LSTM, Transformers | Planned |
 | ⬜ 5 | Production systems — FastAPI, Docker, Kubernetes | Planned |
+
+---
+
+<br>
+
+### `04 /` Get in touch
+
+If you’re working on climate/energy data problems, feel free to open an **issue** or start a discussion.
+
+- GitHub: `@anujsharma-codex`
 
 ---
 
@@ -101,7 +128,7 @@ Built to be extended — not a script, an architecture.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujsharma-codex&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anujsharma-codex&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 <p align="center">
@@ -138,3 +165,4 @@ Documenting the build on Instagram — what I built, what I learned, what broke.
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b00ff,100:0d0017&height=100&section=footer" width="100%"/>
+
