@@ -1,168 +1,254 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0017,30:2d0060,70:7b00ff,100:ff00ff&height=220&section=header&text=Anuj%20Sharma&fontColor=f0d6ff&fontSize=55&fontAlignY=55&desc=Climate%20Data%20Science%20%E2%80%94%20in%20progress.&descFontColor=da8fff&descAlignY=75&descSize=17&animation=fadeIn" width="100%"/>
+<!-- ============================================================
+     INSTRUCTIONS BEFORE YOU USE THIS:
+     1. Create a new GitHub repo with the SAME NAME as your username
+        e.g. if your username is "arjun-sharma", repo name = "arjun-sharma"
+     2. Add a README.md file to that repo — paste this content in
+     3. It will automatically appear on your GitHub profile page
+     4. Replace every [YOUR_GITHUB_USERNAME] with your actual username
+     5. Replace [YOUR_NAME] with your actual name
+     ============================================================ -->
 
-<br>
+<div align="center">
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1400&color=FF00FF&center=true&vCenter=true&width=680&lines=Building+domain-specific+tools+for+climate+risk.;Python+%E2%86%92+NumPy+%E2%86%92+Pandas+%E2%86%92+Xarray+%E2%86%92+Climate+Systems.;Phase+2+active+%E2%80%94+NumPy+done.+Pandas+loading...;Clean+code.+Real+logic.+No+shortcuts." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2dd6a0&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujsharma-codex&style=flat-square&color=7b00ff&labelColor=0d0017&label=profile+views"/>
-</p>
+</div>
 
-<br>
-<br>
-
----
-
-## Hi — I’m Anuj 👋
-
-I build **Climate Physical Risk Intelligence** — the intersection of climate science, geospatial data, and energy systems.
-
-Not a tutorial follower. I pick a real problem, build a tool that solves it, and document the process. That’s the loop.
-
-**Currently on Phase 2/5**: scientific Python stack (**NumPy → Pandas → Xarray**).
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark" height="40"/>
-  <img src="https://skillicons.dev/icons?i=xarray&theme=dark" height="40"/>
-</p>
-
----
-
-## Featured projects
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
-</p>
-
-- **solar-financial-calculator** — CLI tool for solar energy + financial analysis (feasibility → generation → ROI/LCOE).
-  - Tech: Python · OOP · CLI
-  - Repo: `anujsharma-codex/anujsharma-codex` (this profile)
-
-<br>
-
-<!-- Keep your original detailed writeups, but move them down so the reader sees value first -->
-
----
-
-### `01 /` What I Just Built
-
-**`solar-financial-calculator`** — a CLI tool for solar energy and financial analysis.
-
-It takes a location, panel specs, and system size and runs three calculation layers:
+<div align="center">
 
 ```
-Physical  →  panel feasibility · orientation · shading
-Energy    →  daily, monthly, annual generation
-Financial →  ROI · payback period · LCOE · net cost after subsidy
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   CLIMATE PHYSICAL RISK INTELLIGENCE                        │
+│   Building the tools that price planetary-scale risk        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-Separate logic for **residential** (MNRE subsidy) and **commercial** (GST + accelerated depreciation).  
-All market rates live in one config file. Physical, energy, and financial logic are in separate classes.
+</div>
 
-Built to be extended — not a script, an architecture.
+<br>
+
+<div align="center">
+
+# [YOUR_NAME]
+
+**Climate Risk Analyst in Training · Geospatial Data Scientist · India**
+
+*Turning CMIP6 projections, satellite imagery, and extreme value statistics*
+*into financial risk intelligence — one project at a time.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_GITHUB_USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
 
 ---
 
-<br>
+## `> whoami`
 
-### `02 /` Current Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Python · NumPy · OOP · Git / GitHub</sub>
-</p>
-
-<br>
-
-### `03 /` What’s coming next
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,fastapi,kubernetes&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Pandas · Xarray · Matplotlib · PostgreSQL · PostGIS · LSTM · FastAPI · Docker · Kubernetes</sub>
-</p>
-
-| Phase | Focus | Status |
-|---|---|---|
-| ✅ 1 | Solar Financial Calculator — Python, OOP, CLI | Done |
-| 🔄 2 | Scientific Python — NumPy, Pandas, Xarray | Active |
-| ⬜ 3 | Climate + Geospatial — PostGIS, real datasets | Next |
-| ⬜ 4 | ML for climate risk — LSTM, Transformers | Planned |
-| ⬜ 5 | Production systems — FastAPI, Docker, Kubernetes | Planned |
+```python
+profile = {
+    "name"      : "[YOUR_NAME]",
+    "location"  : "India",
+    "focus"     : "Climate Physical Risk Intelligence",
+    "mission"   : "Convert planetary-scale climate data into asset-level financial risk",
+    "stack"     : ["Python", "Xarray", "GeoPandas", "Google Earth Engine", "CMIP6"],
+    "studying"  : "B.Tech / B.Sc — Computer Science / Data Science",
+    "target"    : ["MSCI", "S&P Global Sustainalytics", "Moody's Analytics",
+                   "CRISIL", "Verisk", "RMSI", "PwC ESG"],
+    "available" : "Open to remote internships — GIS · ESG · Climate Data"
+}
+```
 
 ---
 
+## `> what_i_build`
+
+> I build the kind of analysis that major ESG rating firms charge clients millions for —
+> from raw satellite data and climate model ensembles, with open data and Python.
+
 <br>
 
-### `04 /` Get in touch
+<table>
+<tr>
+<td width="50%" valign="top">
 
-If you’re working on climate/energy data problems, feel free to open an **issue** or start a discussion.
+### 🌡️ Climate Science
+Working with **CMIP6 ensemble projections** under SSP1-2.6 and SSP5-8.5 scenarios. Computing extreme event return periods using **Generalized Extreme Value distributions**. Understanding uncertainty — not just central estimates, but the full 5th–95th percentile spread across model ensembles.
 
-- GitHub: `@anujsharma-codex`
+</td>
+<td width="50%" valign="top">
+
+### 💰 Financial Risk
+Translating physical hazards into **Climate Value at Risk (CVaR)** using the `Risk = Hazard × Exposure × Vulnerability` framework. Structuring outputs in **TCFD disclosure format** — the standard mandated by the RBI and international regulators for corporate climate risk reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Geospatial Analysis
+Building end-to-end spatial pipelines with **GeoPandas, Rasterio, and Xarray**. From SRTM digital elevation models to MODIS satellite imagery to flood hazard rasters — if it has coordinates, I can analyse it at scale.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ Remote Sensing
+Operating **Google Earth Engine's** planetary-scale cloud infrastructure to extract 20-year time series from NASA satellite constellations. Urban heat islands, vegetation stress, land surface temperature — at city scale, for all of India.
+
+</td>
+</tr>
+</table>
 
 ---
 
+## `> projects --status=active`
+
+> These are not coursework exercises. Each project is designed to produce the exact type of analytical output that climate risk consultancies at MSCI, Verisk, and CRISIL deliver to paying clients.
+
 <br>
 
-### `05 /` GitHub Stats
+### 📊 M·02 — The Indian Monsoon Volatility Fingerprint (1951–2023)
+![Status](https://img.shields.io/badge/Status-Complete-2dd6a0?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Pandas·Seaborn-4da6ff?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujsharma-codex&show_icons=true&theme=dark&hide_border=true&bg_color=0d0017&title_color=ff00ff&icon_color=9d00ff&text_color=f0d6ff&ring_color=7b00ff&include_all_commits=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma-codex&layout=compact&theme=dark&hide_border=true&bg_color=0d0017&title_color=ff00ff&text_color=f0d6ff" height="160"/>
-</p>
+Z-score heatmap of monsoon rainfall anomalies across 36 Indian states over 7 decades. Identifies which states are showing statistically significant increases in rainfall volatility — a direct precursor to chronic flood risk.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anujsharma-codex&theme=dark&hide_border=true&background=0d0017&ring=9d00ff&fire=ff00ff&currStreakLabel=da8fff&sideLabels=c77dff&dates=9d7abf&stroke=2d0060" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujsharma-codex&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujsharma-codex&bg_color=0d0017&color=ff00ff&line=9d00ff&point=f0d6ff&area=true&area_color=2d0060&hide_border=true" width="100%"/>
-</p>
+**Finding:** `[INSERT YOUR FINDING WHEN COMPLETE]`
 
 ---
 
-<br>
+### 🌊 M·04 — Return Period Atlas: 10 Indian Rivers
+![Status](https://img.shields.io/badge/Status-In_Progress-f5a623?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-scipy.stats·GEV-b48cff?style=flat-square)
 
-### `06 /` Contribution Snake
+Formal flood frequency analysis using Generalized Extreme Value distributions fitted to annual maximum discharge series. Produces 10/25/50/100/200-year return level estimates with 95% bootstrap confidence intervals for 10 major Indian rivers.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anujsharma-codex/anujsharma-codex/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
+**Method:** `Annual Maximum Series → GEV MLE fit → scipy.stats.genextreme.ppf(1 - 1/T)`
 
 ---
 
+### 🏙️ P3·01 — India Urban Heat Island Forensics: 20 Cities, 20 Years
+![Status](https://img.shields.io/badge/Status-Planned-6b7585?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Google_Earth_Engine·MODIS-40c9c9?style=flat-square)
+
+Using NASA MODIS MOD11A2 Land Surface Temperature data pulled via Google Earth Engine to compute Urban Heat Island intensity trends for 20 Indian cities from 2003–2023. Correlates UHI growth rate with population expansion rate.
+
+---
+
+### ⚡ P5·01 — Climate Value at Risk: India's 20 Largest Thermal Power Plants (2030–2050)
+![Status](https://img.shields.io/badge/Status-Planned-6b7585?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-CMIP6·GeoPandas·TCFD-f5a623?style=flat-square)
+
+**Capstone project.** Asset-level physical risk assessment combining CMIP6 temperature projections, FATHOM flood hazard maps, and WRI Aqueduct water stress data. Outputs a TCFD-formatted executive report with CVaR estimates under 5th/50th/95th percentile uncertainty bands.
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+**Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Climate & Geospatial**
+
+![Xarray](https://img.shields.io/badge/Xarray-2dd6a0?style=for-the-badge&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+**Visualisation**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4da6ff?style=for-the-badge&logoColor=white)
+![Cartopy](https://img.shields.io/badge/Cartopy-40c9c9?style=for-the-badge&logoColor=white)
+
+**Currently Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CMIP6](https://img.shields.io/badge/CMIP6_NetCDF-b48cff?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## `> domain_knowledge`
+
+```
+CLIMATE SCIENCE                    RISK FRAMEWORKS                 STATISTICAL METHODS
+──────────────────────             ──────────────────────          ──────────────────────
+✓ IPCC AR6 scenarios               ✓ TCFD physical risk            ✓ Extreme Value Theory
+✓ SSP1-2.6 / SSP5-8.5             ✓ Risk = H × E × V              ✓ GEV / Gumbel distributions
+✓ Acute vs chronic hazards         ✓ Climate Value at Risk          ✓ Return period analysis
+✓ Sea level rise projections       ✓ ISSB disclosure standards      ✓ Bootstrap confidence intervals
+✓ Monsoon dynamics (India)         ✓ Asset materiality              ✓ Ensemble percentile spread
+✓ Urban heat island effect         ✓ CVaR loss estimation           ✓ Z-score normalisation
+⟳ CMIP6 ensemble structure        ⟳ GARP SCR framework            ⟳ Monte Carlo methods
+
+✓ = complete   ⟳ = in progress
+```
+
+---
+
+## `> currently_learning`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ACTIVE STUDY STACK                                          │
+│                                                              │
+│  📐 Math Level 2: Descriptive Statistics & Probability       │
+│     Khan Academy Statistics & Probability                    │
+│                                                              │
+│  🐍 Python: Pandas (advanced) → scikit-learn next           │
+│     Practising on real IMD & NDMA datasets                   │
+│                                                              │
+│  📖 Reading: TCFD Disclosure Reports from Indian companies   │
+│     Currently: Infosys TCFD 2023                             │
+│                                                              │
+│  🏗️  Building: Climate Vulnerability Index — 739 districts   │
+│     5 indicators · Pandas composite scoring                  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark&bg_color=0f1114&border_color=2dd6a0&icon_color=2dd6a0&title_color=e2e5ea&text_color=6b7585&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark&bg_color=0f1114&border_color=2dd6a0&title_color=e2e5ea&text_color=6b7585&hide_border=false" />
+
+</div>
+
+---
+
+## `> philosophy`
+
+> *"The 1-in-100-year flood is not a phrase — it is a specific exceedance probability computed from a*
+> *Generalized Extreme Value distribution fitted to historical discharge data.*
+> *I know how to compute it. For 10 rivers."*
+
+---
+
+<div align="center">
+
+**Open to internship opportunities in:**
+`Climate Risk Analysis` · `GIS / Geospatial Data` · `ESG Analytics` · `Environmental Data Science`
+
+**Platforms:** Internshala · Wellfound · LinkedIn
+
 <br>
 
-### `07 /` Progress Log
-
-Documenting the build on Instagram — what I built, what I learned, what broke.
-
-<!-- [![Instagram](https://img.shields.io/badge/@yourhandle-Instagram-ff00ff?style=flat-square&logo=instagram&logoColor=white&labelColor=2d0060)](https://instagram.com/yourhandle) -->
+*Building publicly. Learning in the open. Every project, every commit, every finding.*
 
 <br>
-<br>
 
-<!-- CUSTOM DANGEROUS SNAKE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anujsharma-codex/anujsharma-codex/main/snake-banner.svg" alt="viper" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2dd6a0&height=80&section=footer" width="100%"/>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b00ff,100:0d0017&height=100&section=footer" width="100%"/>
-
+</div>
