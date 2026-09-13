@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Anuj Sharma 👋
 
 🎓 B.Tech CSE (Data Science) @ SRMIST, KTR  
 📊 Building data-driven tools with Python  
