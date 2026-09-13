@@ -26,7 +26,7 @@ A tool that estimates solar energy potential based on location and environmental
 - **V2** — Refactored with NumPy, added computed features
 - **V3** — Web app with Pandas + Matplotlib + Streamlit *(in progress)*
 
-🔗 [View Repo](your-repo-link)
+🔗 [View Repo](https://github.com/anujsharma-codex/Projects)
 
 ---
 
